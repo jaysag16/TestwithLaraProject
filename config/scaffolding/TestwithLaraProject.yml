@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestwithLaraProject
+  gitServerName: jay
+  gitUrl: https://github.com/jaysag16
+  gitUsername: jaysag16
+  gitBranch: main
